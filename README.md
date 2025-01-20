@@ -1,2 +1,2 @@
 # Delta-Demo
-This is a Demo by Namrata
+This is a Demo by Namrata & jay.
